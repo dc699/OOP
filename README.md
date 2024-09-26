@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-这是dc的oop课程代码仓库
-=======
 # Hazelcast
 
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://slack.hazelcast.com/) 
@@ -154,4 +151,3 @@ We owe (the good parts of) our CLI tool's user experience to
 Copyright (c) 2008-2024, Hazelcast, Inc. All Rights Reserved.
 
 Visit [www.hazelcast.com](http://www.hazelcast.com/) for more info.
->>>>>>> 1c660c71e5e46e54f307d84793aa2a84c90df36c
